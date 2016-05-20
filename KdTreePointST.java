@@ -1,4 +1,4 @@
-mport edu.princeton.cs.algs4.MaxPQ;
+import edu.princeton.cs.algs4.MaxPQ;
 import edu.princeton.cs.algs4.Point2D;
 import edu.princeton.cs.algs4.Queue;
 import edu.princeton.cs.algs4.RectHV;
